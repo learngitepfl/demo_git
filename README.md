@@ -6,3 +6,4 @@ ajoute d'une branche
 ajout d'une ligne dans master
 une ligne dans mon-test
 ajout au stash
+ptit modif
