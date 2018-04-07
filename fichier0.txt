@@ -1,1 +1,2 @@
-ceci et un fichier text
+ceci est un fichier text
+ceci est une modification sur github
